@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_website_noindex_log,access_website_noindex_log,model_website_noindex_log,base.group_user,1,0,0,0
+access_website_noindex_checker,access_website_noindex_checker,model_website_noindex_checker,base.group_user,1,0,0,0

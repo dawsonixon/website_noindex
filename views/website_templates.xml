@@ -1,0 +1,8 @@
+<odoo>
+    <template id="layout" inherit_id="website.layout">
+        <xpath expr="//head" position="inside">
+            <meta name="robots" content="noindex"/>
+        </xpath>
+    </template>
+</odoo>
+
